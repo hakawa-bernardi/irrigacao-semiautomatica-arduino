@@ -96,7 +96,7 @@ Inicialização
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/irrigacao-semiautomatica.git
+git clone https://github.com/hakawa-bernardi/irrigacao-semiautomatica-arduino.git
 cd irrigacao-semiautomatica
 ```
 
